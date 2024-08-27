@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal-jagdev&label=Profile%20views&color=0e75b6&style=flat" alt="sujal-jagdev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal-jagdev&label=Profile%20views&color=0e75b6&style=flat" alt="yash-valand" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -24,8 +24,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Yash Valand"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Yash Valand" /></a></p><br><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujal-jagdev&show_icons=true&locale=en&layout=compact" alt="sujal-jagdev" height="210"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-valand&show_icons=true&locale=en&layout=compact" alt="yash-valand" height="210"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujal-jagdev&show_icons=true&locale=en" alt="sujal-jagdev" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-valand&show_icons=true&locale=en" alt="yash-valand" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-jagdev&" alt="sujal-jagdev" height="210"/></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-valand&" alt="yash-valand" height="210"/></p><br>
